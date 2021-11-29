@@ -1,0 +1,6 @@
+expname = train1_com
+datadir = /home/nolan/Downloads/AD-NeRF-master/dataset/train1
+basedir = /home/nolan/Downloads/AD-NeRF-master/dataset/train1/logs
+near = 0.4605636477470398
+far = 1.0605636477470397
+testskip = 18
