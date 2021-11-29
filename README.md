@@ -1,3 +1,16 @@
+CS 6323 Final Project Research Code and modifications. The modifications made were primarily in the run_nerf.py in both head and torso to allow for less powerful setups to train and run their own models. Current Setup is a GTX 3070 and a Ryzen 7 3700x
+
+
+@inproceedings{guo2021adnerf,
+  title={AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis},
+  author={Yudong Guo and Keyu Chen and Sen Liang and Yongjin Liu and Hujun Bao and Juyong Zhang},
+  booktitle={IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2021}
+}
+
+
+
+
 # AD-NeRF: Audio Driven Neural Radiance Fields for Talking Head Synthesis
 
 ![](paper_data/pipeline.png)
